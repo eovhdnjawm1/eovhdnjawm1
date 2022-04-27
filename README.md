@@ -1,13 +1,17 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
 - ##### 제 깃헙 주소는 https://github.com/eovhdnjawm1  
   
-
-- 🔭 멋쟁이 사자처럼 프론트 앤드 스쿨 1기 수료생 고영진입니다.  
-  
+## 안녕하세요 고영진 입니다.
+- 🔍 멋쟁이 사자처럼 프론트 앤드 스쿨 1기 수료생 입니다.
+- 🧾 탈잉 익스턴십 Vue 프로젝트를 진행 하였습니다.
+- 🧾 노마드 코더 바닐라 JS 챌린지 수료생 입니다.
+- 🧾 MDN 오픈 소스를 기여 해보았습니다. ( https://github.com/mdn/translated-content/pull/5303 )
+- 📙 CSS 갤러리를 만들어보고 있습니다.
+- 💻 Vue 프로젝트를 진행하였고 React 프로젝트를 진행 중 입니다.
 
 <br/>  
 
