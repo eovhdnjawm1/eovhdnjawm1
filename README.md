@@ -5,7 +5,7 @@
 
 - ##### 저의 Github 주소 입니다 https://github.com/eovhdnjawm1  
 - ##### 저의 블로그 주소 입니다 https://promanysided.tistory.com/
-- ##### 저의 이력서 입니다 https://drive.google.com/file/d/1npRUC72e18r3F2lofjCr90JWz91EZe-s/view?usp=sharing
+- ##### 저의 이력서 입니다 https://drive.google.com/file/d/1kOsfRloMZ4WtrPHYlv_KueY1OT2ObNxc/view?usp=sharing
   
 ## 안녕하세요 취업준비생 고영진 입니다.
 - 🔍 멋쟁이 사자처럼 프론트 앤드 스쿨 1기 수료생 입니다.
